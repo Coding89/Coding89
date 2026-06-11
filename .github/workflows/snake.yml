@@ -19,20 +19,22 @@ jobs:
         id: snake-gif
         with:
           github_user_name: Coding89
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          gif_out_path:  dist/github-contribution-grid-snake.gif
-          snake_color: "#FF00FF"
-          snake_head_color: "#FFD700"
-          snake_tail_color: "#FFFF00"
+          args: >
+            --svg-out-path dist/github-contribution-grid-snake.svg
+            --gif-out-path  dist/github-contribution-grid-snake.gif
+            --snake-color "#FF00FF"
+            --snake-head-color "#FFD700"
+            --snake-tail-color "#FFFF00"
      #generates snake type, snake colour and dark mode.
       - uses: Platane/snk@v3
         with:
           github_user_name: Coding89
-          svg_out_path: dist/github-contribution-grid-snake-dark.svg
-          snake_color: "#FF00FF"
-          snake_head_color: "#FFD700"
-          snake_tail_color: "#FFFF00"
-          palette: github-dark
+          args: >
+            --svg-out-path dist/github-contribution-grid-snake-dark.svg
+            --snake-color "#FF00FF"
+            --snake-head-color "#FFD700"
+            --snake-tail-color "#FFFF00"
+            --palette github-dark
 #Deploys the generated images to a separate branch.
       - uses: crazy-max/ghaction-github-pages@v4
         with:
