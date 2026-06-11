@@ -7,6 +7,10 @@ on:
 #Sets the workflow permissions granted to the Github_token.
 permissions:
   contents: write
+  pages: write
+#bypasses the upcoming update for September 2026.
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 #specifies the type of virtual machine runner.
 jobs:
   build:
