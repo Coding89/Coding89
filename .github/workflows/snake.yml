@@ -21,7 +21,7 @@ jobs:
           github_user_name: Coding89
           args: >
             --svg-out-path dist/github-contribution-grid-snake.svg
-            --gif-out-path  dist/github-contribution-grid-snake.gif
+            --gif-out-path dist/github-contribution-grid-snake.gif
             --snake-color "#FF00FF"
             --snake-head-color "#FFD700"
             --snake-tail-color "#FFFF00"
