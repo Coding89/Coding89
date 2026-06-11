@@ -1,29 +1,39 @@
 name: Generate Snake
-
+#controls the schedule.
 on:
   schedule:
     - cron: "0 */3 * * *"  # Runs every 12 hours
   workflow_dispatch:
-
+#Sets the workflow permissions granted to the Github_token.
 permissions:
   contents: write
-
+#specifies the type of virtual machine runner.
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v4
-      
+     #generates snake type, snake colour and light mode.
       - uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: Coding89
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif
-      
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          gif_out_path:  dist/github-contribution-grid-snake.gif
+          snake_color: "#FF00FF"
+          snake_head_color: "#FFD700"
+          snake_tail_color: "#FFFF00"
+     #generates snake type, snake colour and dark mode.
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Coding89
+          svg_out_path: dist/github-contribution-grid-snake-dark.svg
+          snake_color: "#FF00FF"
+          snake_head_color: "#FFD700"
+          snake_tail_color: "#FFFF00"
+          palette: github-dark
+#Deploys the generated images to a separate branch.
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
