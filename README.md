@@ -24,9 +24,9 @@ I managed complex financial pipelines for a global refugee organisation whilst b
 🦆 DuckDB was named after ducks due to the creator, Hannes Muhleisen's fascination of watching ducks. He found them to be highly resilient, efficient and could live off anything. Ducks are adapable on air, land and water. He envisioned DuckDB operating in a seamless process across different data environments without the need for a heavy server setup.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Coding89/Coding89/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Coding89/Coding89/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Coding89/Coding89/output/github-contribution-grid-snake.svg">
 </picture>        
       
 <!--
