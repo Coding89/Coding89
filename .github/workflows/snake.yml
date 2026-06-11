@@ -18,6 +18,10 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+
+    #creates the dist directory.
+      - name: Create dist directory
+        run: mkdir -p dist
      #generates snake type, snake colour and light mode.
       - uses: Platane/snk@v3
         id: snake-gif
