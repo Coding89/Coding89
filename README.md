@@ -7,7 +7,7 @@ I manage complex financial pipelines for a global refugee organisation whilst bu
 -----
 ### Technical toolkit ###
 
-- ☁️ Cloud Platforms: ![google cloud platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white),
+- ☁️ Cloud Platforms: ![google cloud platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white)
 - 🗄️Databases & querying: ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white), ![DuckDB](https://img.shields.io/badge/docs.rs-duckdb-green)
 - 📊📈 Data Visualisations: ![Power BI](https://img.shields.io/badge/Power_Bi-F2C811?style=flat-square&logo=codeforces&logoColor=black), Excel 𓊂,
 - 🖳 Libraries & Frameworks: ![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) (![pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas), <a href="https://apache/org"><img src="https://arrow.apache.org/img/arrow-logo_horizontal_black-txt_white-bg.png" alt="pyarrow" height="25"></a>, ![plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white), ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python), ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white), ![numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white))
@@ -17,7 +17,7 @@ I manage complex financial pipelines for a global refugee organisation whilst bu
 -----
 ### Current Projects:
 - Currently mastering: DuckDB 🦆
-- 🤖 Current side project/s: Analysing venture capital and financial investments in AI companies.
+- 🤖 Current side project/s: About to begin either a SQL project related to charity donations/finance or AI investments on a global scale.
 
 -----
 ### Fun facts:
