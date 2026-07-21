@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## 🌟 Financial Data Engineer | Tech for Good ## 
+## 🌟 Financial Data Administrator | Tech for Good ## 
 
 I manage complex financial pipelines for a global refugee organisation whilst building modern analytics solutions and side projects related to financial datasets. I transform messy payment data into clear, actionable visual insights.
 
