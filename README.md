@@ -17,7 +17,7 @@ I manage complex financial pipelines for a global refugee organisation whilst bu
 -----
 ### Current Projects:
 - Currently mastering: DuckDB 🦆
-- 🤖 Current side project/s: About to begin either a SQL project related to charity donations/finance or AI investments on a global scale.
+- 🤖 Current side project/s: currently working on a Python and SQL project related to charity donations/finance.
 
 -----
 ### Fun facts:
