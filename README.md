@@ -2,7 +2,7 @@
 
 ## 🌟 Financial Data Administrator | Tech for Good ## 
 
-I manage complex financial pipelines for a global refugee organisation whilst building modern analytics solutions and side projects related to financial datasets. I transform messy payment data into clear, actionable visual insights.
+I manage complex financial pipelines for a transnational refugee organisation with primary focus on Thailand whilst building modern analytics solutions and side projects related to financial and organisational datasets. I transform messy payment data into clear and actionable visual insights.
 
 -----
 ### Technical toolkit ###
