@@ -13,7 +13,6 @@ I manage complex financial pipelines for a transnational refugee organisation wi
 - 🖳 Libraries & Frameworks: ![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) (![pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas), <a href="https://apache/org"><img src="https://arrow.apache.org/img/arrow-logo_horizontal_black-txt_white-bg.png" alt="pyarrow" height="25"></a>, ![plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white), ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python), ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white), ![numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white))
 - 💱 Fintech Platforms: <a href="[https://apache/org](https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg](https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg)"><img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg" alt="stripe" height="20" style="vertical-align -16px;"></a>, ![PayPal](https://img.shields.io/badge/shields-paypal-blue?logo=paypal), ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 
-
 -----
 ### Current Projects:
 - Currently mastering: DuckDB 🦆
