@@ -21,6 +21,10 @@ I manage complex financial pipelines for a transnational refugee organisation wi
 -----
 ### Fun facts:
 
+💡SQL Fun Fact:
+
+SQL is older than the internet. It was developed in 1970s by IBM researchers. It remains the most widely used language for data management. 
+
 💡 DuckDB Fun Fact:
 
 🦆 DuckDB was named after ducks due to the creator, Hannes Muhleisen's fascination of watching ducks. He found them to be highly resilient, efficient and could live off anything. Ducks are adapable on air, land and water. He envisioned DuckDB operating in a seamless process across different data environments without the need for a heavy server setup.
